@@ -1,0 +1,65 @@
+body {
+  background-color: black;
+}
+
+h1 {
+  text-align: center;
+  padding: 50px;
+  border: 1px solid black;
+  background-color: lightblue;
+}
+
+h2 {
+  text-align: center;
+  padding: 25px;
+  border: 1px solid navy;
+  background-color: lightblue;
+}
+
+p {
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 2px;
+  padding-right: 2px;
+  border: 1px solid green;
+  background-color: white;
+}
+
+div {
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 2px;
+  padding-right: 2px;
+  border: 1px solid green;
+  background-color: gray;
+  text-align: center;
+}
+
+ol, ul {
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 25px;
+  padding-right: 2px;
+  border: 1px solid green;
+  background-color: white;
+}
+
+.fonts {
+  color: navy;
+  font-style: italic;
+}
+
+a:link {
+  color: pink;
+  text-decoration: none;
+}
+a:visited {
+  color: green;
+}
+a:hover {
+  color: white;
+  text-decoration: underline;
+}
+a:active {
+  color: orange;
+}
